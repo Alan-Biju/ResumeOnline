@@ -54,12 +54,12 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-     transition: all 1s ease-in-out;
+     transition: all 0.5s ease-in-out;
    pointer-events: none;
 }
 .load svg{
     width: 50px;
-     animation: color 2s ease;
+     animation: color 1.5s ease;
 }
 @keyframes color{
     0%{
